@@ -4,7 +4,7 @@ This repository contains code developed as part of my MSc thesis in Applied Math
 
 ## My mathlib contributions
 
-- [Commit: Added theorem XYZ to mathlib](https://github.com/leanprover-community/mathlib4/commit/16c9f0012f2519749abd9d91ff1cb88f51b189fc)
+- [Commit: Added section about the wreath product to mathlib](https://github.com/leanprover-community/mathlib4/commit/16c9f0012f2519749abd9d91ff1cb88f51b189fc)
 
 
 ## Description
